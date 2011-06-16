@@ -33,7 +33,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="log4net">
-      <HintPath>..\..\SharedLibs\build\log4net.dll</HintPath>
+      <HintPath>..\SharedLibs\log4net.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.Practices.Unity">
       <HintPath>..\SharedLibs\Microsoft.Practices.Unity.dll</HintPath>
